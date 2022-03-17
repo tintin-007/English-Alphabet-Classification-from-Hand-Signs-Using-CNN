@@ -1,15 +1,8 @@
 ## English Alphabet Classification from Hand Signs Using CNN
 
-In   this   project   26   hand   signs   are   used   to   classify   26   English alphabets with a CNN based model.
 
-## The Dataset
+-The public dataset used for this project is available on https://www.kaggle.com/ayuraj/asl-dataset.
 
-American Sign Language [https://www.kaggle.com/ayuraj/asl-dataset] dataset   is   used   for   classfication   task.   Only   relevant   folders
-corresponding to 26 English alphabets are used for this project. For each alphabet there are 70 samples except the letter ‘t’ for which 65 samples are available.
+-The project_report.pdf file contains the description of the project.
 
-**Sample Images with their labels from the dataset**
-![alt text](https://github.com/tintin85/English-Alphabet-Classification-from-Hand-Signs-Using-CNN/blob/master/input_image.png)
-
-## Methodology
-
-**1. Image Preprocessing**
+-The code.ipynb file contains the code for the project.
